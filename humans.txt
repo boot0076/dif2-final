@@ -1,0 +1,16 @@
+/*TEAM*/
+
+Designer & Developer: Sarah Bootsma
+Behance: http://behance.net/sarahbootsma
+Location: Ottawa, Canada
+
+
+/*THANKS*/
+To Ice-Cream Lab.
+
+
+/*SITE*/
+Last update: 12/11/2013
+Standards: HTML5, CSS3
+Components: Modernizer, Jquery, Javascript
+Software: Adobe, Sublime Text 2

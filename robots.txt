@@ -1,0 +1,7 @@
+# http://en.wikipedia.org/wiki/Robots_exlusion_standard
+# http://robotstxt.org
+
+Site-map: http://boot0076.site44.com/dsn1543/project-1/sitemap.xml
+User-agent: *
+
+Disallow:
